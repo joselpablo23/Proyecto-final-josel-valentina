@@ -1,0 +1,15 @@
+name: Serpientes_josel_valentina
+title: Serpientes_josel_valentina
+username:
+account: ibm65w-joselpablo23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7888345
+bundleId: 6634075
+url: https://ibm65w-joselpablo23.shinyapps.io/Serpientes_josel_valentina/
+when: 1670978795.2841
+lastSyncTime: 1670978795.28412
+quarto_version: 1.1.189
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
